@@ -1,0 +1,468 @@
+<!DOCTYPE HTML>
+<!--
+	Photon by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Splatoon</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<div class="inner">
+					<span class=><img src="http://vignette3.wikia.nocookie.net/fantendo/images/c/c4/Splatoon_icon.png/revision/latest?cb=20150127021419"/></span>
+					<h1> <strong>Splatoon</strong> <br />
+					<a href="http://splatoon.nintendo.com/">Turf Wars</a>.</h1>
+					<p>Ink or be inked
+					.</p>
+					<ul class="actions">
+						<li><a href="#one" class="button scrolly">Get Started! 
+						<a href="#three" class="button scrolly">Weapons
+						<a href="#three" class="button scrolly">Splatfest's
+						<a href="#one" class="button scrolly">Accessories
+						<a href="#one" class="button scrolly">Maps</a></li>
+					</ul>
+				</div>
+			</section>
+
+
+
+		<!-- One -->
+			<section id="one" class="main style1">
+				<div class="container">
+					<div class="row 150%">
+						<div class="6u 12u$(medium)">
+							<header class="major">
+								<h2>Weapons<br />
+					               </h2>
+							</header>
+							<p>Splatoon is a diverse 3rd person shooter game, produced by Nintendo in 2015. A game revolving around the idea of the "Inklings", beings which can transform between squid and humanoid form. The game has two modes, single player campaign and 4v4 PvP.</p>
+						</div>
+						<div class="6u$ 12u$(medium) important(medium)">
+							<span class="image fit"><img src="http://vignette1.wikia.nocookie.net/splatoon/images/b/ba/Splatoonfggdfdsdf.jpg/revision/latest?cb=20150711122326" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="main style2">
+				<div class="container">
+					<div class="row 150%">
+						<div class="6u 12u$(medium)">
+							<ul class="major-icons">
+								<li><span class="icon style1 major fa-crosshairs"></span></li>
+								<li><span class="icon style2 major fa-gamepad"></span></li>
+								<li><span class="icon style3 major fa-gears"></span></li>
+								<li><span class="icon style4 major fa-paint-brush"></span></li>
+								
+							</ul>
+						</div>
+						<div class="6u$ 12u$(medium)">
+							<header class="major">
+								<h2>About the game<br />
+						           </h2>
+							</header>
+							<p> Player vs. Player</p> <p> Splatoons multiplayer consists of 4v4 action. The main objective is to cover the most area space possible in your teams colour of ink. You can kill enemy players, however the main focus is to cover as much ground as possibe in your colour. Howver, killing enemies is not unnessecary, as it rewards you by revoming them from the battlefield for a short time, allowing you time to ink more ground for your team. Games are 2 minutes long and are determined by how much of one teams colour is on the map. </p> <p> The single player campaign is very different to the multiplayer action. The singleplayer mode revolves areound the story, and it is based on the fact that the "Octarians", a species similair to the inklings are coming back for an turf war. The scene is set in a time long after the extinction of humans, and the "Inklings" must rescue the zapfish, which is Inkopolis's source of power. 
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Three -->
+			<section id="three" class="main style1 special">
+				<div class="container">
+					<header class="major">
+						<h2>Weapons</h2>
+					</header>
+					<p>Splatoon has 3 different kinds of weapons. Main weapons, sub weapons and special weapons. There are 5 different types of main weapons: Shooters, chargers, rollers, sloshers and splatlings. There are many different kinds of sub and special weapons, each with unique properties. Main weapons are your'e main source of damage and covering ground. Sub weapons cost more ink but have special properties and benefit your team. Special weapons charge up based on the amount of ink you have laid on the battlefield. They are deadly and can lead to advantages.</p>
+					<div class="row 150%">
+						<div class="12u 12u$(medium)">
+							<span class="image fit"><img src="http://play-media.nintendo.com/images/tumblr_nkadjaUgYU1u3akyno1_1280.ea705fe1b57210934f8f0f88a009b908c02c5a5d.jpg" alt="" /></span>
+							<h3>Splatfest's</h3>
+							<p>Splatfest's occur every once in a while. They appear as an event and player choose to vote for which team they want to win. Normally the subjects chosen are opposite of each other, such as cats and dogs, science and art or pirates and ninjas. If you compete in the splatfest you will obatin a limited edition shirt with subject you are supporting on it.</p>
+							
+						</div>
+						<div class="12u 12u$(medium)">
+							<span class="image fit"><img src="http://i0.wp.com/www.gaming-age.com/wp-content/uploads/2015/05/WiiU_Splatoon_050715_Splatfest_screen_04.jpg" alt="" /></span>
+							<h3>Accessories</h3>
+							<p>In Splatoon "Inklings" find that the most important thing is to "Stay fresh". This means that they have a constant need to acquire new gear. The entire economy of the Inkopolis now revolves around selling and buying clothes and shoes. However, buying gear is not just for cosmetic purposes, as they have many properties which allow them to benefit your character, such as shortening your respawn time, increasing your speed or even making you use less ink!</p>
+							
+						</div>
+						<div class="12u$ 12u$(medium)">
+							<span class="image fit"><img src="http://vignette1.wikia.nocookie.net/splatoon/images/b/bf/Shop_Clothing_EN.jpg/revision/latest?cb=20150127035239" alt="" /></span>
+							<h3>Maps</h3>
+							<p>Splatoon has a wide range of maps to offer to players. The maps are mirrored, so that there would be no clear advantage from one side or the other. Maps change every 2 hours, and they have 2 maps in the map rotation at a time. There are 12 maps in total, so players can always have a diverse multiplayer map experience.</p>
+							<span class="image fit"><img src="http://vignette1.wikia.nocookie.net/splatoon/images/4/43/WiiU_Splatoon_050715_screen_Stage_ArowanaMall-1024x576.jpg/revision/latest?cb=20150509154632" alt="" /></span>
+							<ul class="actions">
+								<li><a href="#" class="button">Top</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Four -->
+			<section id="four" class="main style2 special">
+				<div class="container">
+					<header class="major">
+						<h2>Ready to ink??</h2>
+					</header>
+					<p>Splatoon sold at 3rd party dealers, console and controlers sold seperately.</p>
+					<ul class="actions uniform">
+						<li><a href="http://splatoon.nintendo.com/" class="button special">Purchase Now</a></li><li><a href="https://www.nintendo.com/games/detail/PgWojuR620ADG7VVhyz94zb5FZH75BKC" class="button special">Learn More</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- Five -->
+		<!--
+			<section id="five" class="main style1">
+				<div class="container">
+					<header class="major special">
+						<h2>Elements</h2>
+					</header>
+
+					<section>
+						<h4>Text</h4>
+						<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+						This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+						This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+						<hr />
+						<header>
+							<h4>Heading with a Subtitle</h4>
+							<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+						</header>
+						<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+						<header>
+							<h5>Heading with a Subtitle</h5>
+							<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+						</header>
+						<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+						<hr />
+						<h2>Heading Level 2</h2>
+						<h3>Heading Level 3</h3>
+						<h4>Heading Level 4</h4>
+						<h5>Heading Level 5</h5>
+						<h6>Heading Level 6</h6>
+						<hr />
+						<h5>Blockquote</h5>
+						<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+						<h5>Preformatted</h5>
+						<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+print 'Iteration ' + i;
+deck.shuffle();
+i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+					</section>
+
+					<section>
+						<h4>Lists</h4>
+						<div class="row">
+							<div class="6u 12u$(medium)">
+								<h5>Unordered</h5>
+								<ul>
+									<li>Dolor pulvinar etiam.</li>
+									<li>Sagittis adipiscing.</li>
+									<li>Felis enim feugiat.</li>
+								</ul>
+								<h5>Alternate</h5>
+								<ul class="alt">
+									<li>Dolor pulvinar etiam.</li>
+									<li>Sagittis adipiscing.</li>
+									<li>Felis enim feugiat.</li>
+								</ul>
+							</div>
+							<div class="6u$ 12u$(medium)">
+								<h5>Ordered</h5>
+								<ol>
+									<li>Dolor pulvinar etiam.</li>
+									<li>Etiam vel felis viverra.</li>
+									<li>Felis enim feugiat.</li>
+									<li>Dolor pulvinar etiam.</li>
+									<li>Etiam vel felis lorem.</li>
+									<li>Felis enim et feugiat.</li>
+								</ol>
+								<h5>Icons</h5>
+								<ul class="icons">
+									<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Actions</h5>
+						<div class="row">
+							<div class="6u 12u$(medium)">
+								<ul class="actions">
+									<li><a href="#" class="button special">Default</a></li>
+									<li><a href="#" class="button">Default</a></li>
+								</ul>
+								<ul class="actions small">
+									<li><a href="#" class="button special small">Small</a></li>
+									<li><a href="#" class="button small">Small</a></li>
+								</ul>
+								<ul class="actions vertical">
+									<li><a href="#" class="button special">Default</a></li>
+									<li><a href="#" class="button">Default</a></li>
+								</ul>
+								<ul class="actions vertical small">
+									<li><a href="#" class="button special small">Small</a></li>
+									<li><a href="#" class="button small">Small</a></li>
+								</ul>
+							</div>
+							<div class="6u 12u$(medium)">
+								<ul class="actions vertical">
+									<li><a href="#" class="button special fit">Default</a></li>
+									<li><a href="#" class="button fit">Default</a></li>
+								</ul>
+								<ul class="actions vertical small">
+									<li><a href="#" class="button special small fit">Small</a></li>
+									<li><a href="#" class="button small fit">Small</a></li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+					<section>
+						<h4>Table</h4>
+						<h5>Default</h5>
+						<div class="table-wrapper">
+							<table>
+								<thead>
+									<tr>
+										<th>Name</th>
+										<th>Description</th>
+										<th>Price</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>Item One</td>
+										<td>Ante turpis integer aliquet porttitor.</td>
+										<td>29.99</td>
+									</tr>
+									<tr>
+										<td>Item Two</td>
+										<td>Vis ac commodo adipiscing arcu aliquet.</td>
+										<td>19.99</td>
+									</tr>
+									<tr>
+										<td>Item Three</td>
+										<td> Morbi faucibus arcu accumsan lorem.</td>
+										<td>29.99</td>
+									</tr>
+									<tr>
+										<td>Item Four</td>
+										<td>Vitae integer tempus condimentum.</td>
+										<td>19.99</td>
+									</tr>
+									<tr>
+										<td>Item Five</td>
+										<td>Ante turpis integer aliquet porttitor.</td>
+										<td>29.99</td>
+									</tr>
+								</tbody>
+								<tfoot>
+									<tr>
+										<td colspan="2"></td>
+										<td>100.00</td>
+									</tr>
+								</tfoot>
+							</table>
+						</div>
+
+						<h5>Alternate</h5>
+						<div class="table-wrapper">
+							<table class="alt">
+								<thead>
+									<tr>
+										<th>Name</th>
+										<th>Description</th>
+										<th>Price</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>Item One</td>
+										<td>Ante turpis integer aliquet porttitor.</td>
+										<td>29.99</td>
+									</tr>
+									<tr>
+										<td>Item Two</td>
+										<td>Vis ac commodo adipiscing arcu aliquet.</td>
+										<td>19.99</td>
+									</tr>
+									<tr>
+										<td>Item Three</td>
+										<td> Morbi faucibus arcu accumsan lorem.</td>
+										<td>29.99</td>
+									</tr>
+									<tr>
+										<td>Item Four</td>
+										<td>Vitae integer tempus condimentum.</td>
+										<td>19.99</td>
+									</tr>
+									<tr>
+										<td>Item Five</td>
+										<td>Ante turpis integer aliquet porttitor.</td>
+										<td>29.99</td>
+									</tr>
+								</tbody>
+								<tfoot>
+									<tr>
+										<td colspan="2"></td>
+										<td>100.00</td>
+									</tr>
+								</tfoot>
+							</table>
+						</div>
+					</section>
+
+					<section>
+						<h4>Buttons</h4>
+						<ul class="actions">
+							<li><a href="#" class="button special">Special</a></li>
+							<li><a href="#" class="button">Default</a></li>
+						</ul>
+						<ul class="actions">
+							<li><a href="#" class="button big">Big</a></li>
+							<li><a href="#" class="button">Default</a></li>
+							<li><a href="#" class="button small">Small</a></li>
+						</ul>
+						<ul class="actions fit">
+							<li><a href="#" class="button fit">Fit</a></li>
+							<li><a href="#" class="button special fit">Fit</a></li>
+							<li><a href="#" class="button fit">Fit</a></li>
+						</ul>
+						<ul class="actions fit small">
+							<li><a href="#" class="button special fit small">Fit + Small</a></li>
+							<li><a href="#" class="button fit small">Fit + Small</a></li>
+							<li><a href="#" class="button special fit small">Fit + Small</a></li>
+						</ul>
+						<ul class="actions">
+							<li><a href="#" class="button special icon fa-download">Icon</a></li>
+							<li><a href="#" class="button icon fa-download">Icon</a></li>
+						</ul>
+						<ul class="actions">
+							<li><span class="button special disabled">Disabled</span></li>
+							<li><span class="button disabled">Disabled</span></li>
+						</ul>
+					</section>
+
+					<section>
+						<h4>Form</h4>
+						<form method="post" action="#">
+							<div class="row uniform 50%">
+								<div class="6u 12u$(xsmall)">
+									<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+								</div>
+								<div class="6u$ 12u$(xsmall)">
+									<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+								</div>
+								<div class="12u$">
+									<div class="select-wrapper">
+										<select name="demo-category" id="demo-category">
+											<option value="">- Category -</option>
+											<option value="1">Manufacturing</option>
+											<option value="1">Shipping</option>
+											<option value="1">Administration</option>
+											<option value="1">Human Resources</option>
+										</select>
+									</div>
+								</div>
+								<div class="4u 12u$(small)">
+									<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+									<label for="demo-priority-low">Low</label>
+								</div>
+								<div class="4u 12u$(small)">
+									<input type="radio" id="demo-priority-normal" name="demo-priority">
+									<label for="demo-priority-normal">Normal</label>
+								</div>
+								<div class="4u$ 12u$(small)">
+									<input type="radio" id="demo-priority-high" name="demo-priority">
+									<label for="demo-priority-high">High</label>
+								</div>
+								<div class="6u 12u$(small)">
+									<input type="checkbox" id="demo-copy" name="demo-copy">
+									<label for="demo-copy">Email me a copy</label>
+								</div>
+								<div class="6u$ 12u$(small)">
+									<input type="checkbox" id="demo-human" name="demo-human" checked>
+									<label for="demo-human">Not a robot</label>
+								</div>
+								<div class="12u$">
+									<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+								</div>
+								<div class="12u$">
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="special" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</ul>
+								</div>
+							</div>
+						</form>
+					</section>
+
+					<section>
+						<h4>Image</h4>
+						<h5>Fit</h5>
+						<div class="box alt">
+							<div class="row uniform 50%">
+								<div class="12u"><span class="image fit"><img src="images/pic06.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+								<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+							</div>
+						</div>
+						<h5>Left &amp; Right</h5>
+						<p><span class="image left"><img src="images/pic05.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+						<p><span class="image right"><img src="images/pic05.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+					</section>
+
+				</div>
+			</section>
+		-->
+
+		<!-- Footer -->
+			<section id="footer">
+				
+				<ul class="copyright">
+					<li>&copy; Ernest Wang 2015</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; All Splatoon characters and designs are owned by Nintendo</li>
+				</ul>
+			</section>
+			
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
